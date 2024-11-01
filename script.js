@@ -3,7 +3,7 @@
 	{
 		id: 1,
 		class: 'fatimah',
-		url: location.origin + "/music.mp3",
+		url: "/music.mp3",
 		author: "For Fatimah",
 		title: "Takdir Kita"
 	}
