@@ -3,7 +3,7 @@
 	{
 		id: 1,
 		class: 'fatimah',
-		url: "/music.mp3",
+		url: "https://syaidiputra.github.io/for-fatimah/music.mp3",
 		author: "For Fatimah",
 		title: "Takdir Kita"
 	}
